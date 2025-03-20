@@ -69,7 +69,7 @@ public class Data {
 
         url = "jdbc:postgresql://localhost:5432/Score";
         username = "postgres";
-        password = "darwisy05";
+        password = "test123";
         
         try {
             Class.forName("org.postgresql.Driver");
@@ -98,7 +98,7 @@ public class Data {
 
         url = "jdbc:postgresql://localhost:5432/Score";
         username = "postgres";
-        password = "darwisy05";
+        password = "test123";
         
         try {
             Class.forName("org.postgresql.Driver");
@@ -128,7 +128,7 @@ public class Data {
 
         url = "jdbc:postgresql://localhost:5432/Score";
         username = "postgres";
-        password = "darwisy05";
+        password = "test123";
         
         try {
             
@@ -153,7 +153,7 @@ public class Data {
 
         url = "jdbc:postgresql://localhost:5432/Score";
         username = "postgres";
-        password = "darwisy05";
+        password = "test123";
         name = "";
         try {
             
@@ -181,7 +181,7 @@ public class Data {
 
         url = "jdbc:postgresql://localhost:5432/Score";
         username = "postgres";
-        password = "darwisy05";
+        password = "test123";
         int score = 0;
         try {
             
