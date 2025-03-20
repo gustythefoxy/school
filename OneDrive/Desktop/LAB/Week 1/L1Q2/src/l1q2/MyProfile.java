@@ -15,11 +15,11 @@ public class MyProfile {
      */
     public static void main(String[] args) {
         System.out.println("hello");
-        System.out.println("My name is Muhammad Darwisy Bin Faizal");
-        System.out.println("My matric number is 23001387");
-        System.out.println("My address is kk8 F306 :D");
-        System.out.println("My number is 011-61273104");
-        System.out.println("my email address is muhammaddarwisy253@gmail.com");
+        System.out.println("My name is Redacted");
+        System.out.println("My matric number is 222222222");
+        System.out.println("My address is kk12 A248 :D");
+        System.out.println("My number is 11111111");
+        System.out.println("my email address is no");
     }
     
 }
