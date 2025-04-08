@@ -65,7 +65,7 @@ public class Entity {
     public boolean sleep = false;
     public boolean drawing = true;
     public int difficulty;
-    public final int easy = 0; // difficulty
+    public final int easy = 0; // difficulty\\\\\\\\\\\\\\\\\\\\\\
     public final int medium = 1;
     public final int hard = 2;
     
